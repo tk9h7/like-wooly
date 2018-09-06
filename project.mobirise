@@ -121,7 +121,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-g\"><span class=\"mbri-italic mbr-iconfont mbr-iconfont-btn\"></span>О Шерсти Мериноса</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-k\"><span class=\"mbri-gift mbr-iconfont mbr-iconfont-btn\"></span>Наши Продукты</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-c\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Свяжись с нами</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html\">Сделайть заказ</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-g\"><span class=\"mbri-italic mbr-iconfont mbr-iconfont-btn\"></span>О Шерсти Мериноса</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-k\"><span class=\"mbri-gift mbr-iconfont mbr-iconfont-btn\"></span>Наши Продукты</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-c\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Свяжись с нами</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#form1-d\">Сделайть заказ</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -173,6 +173,14 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#000000!important"
+            },
+            "SPAN": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "A": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           },
           "logo": {

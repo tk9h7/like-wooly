@@ -10,6 +10,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -499,6 +501,12 @@ h6,
 #ext_menu-0 .link[aria-expanded="true"],
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #000000!important;
+}
+#ext_menu-0 SPAN {
+  font-family: 'Montserrat', sans-serif;
+}
+#ext_menu-0 A {
+  font-family: 'Montserrat', sans-serif;
 }
 #header5-g .mbr-section-title {
   color: #28324e;
