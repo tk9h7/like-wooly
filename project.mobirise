@@ -640,9 +640,9 @@
           "subtitle": "Это сообщения от наших клиентов, которые уже получили нашу продукцию!",
           "testimonial": [
             {
-              "authorName": "Abanoub S.",
-              "authorBio": "User",
-              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "authorName": "Alena &nbsp;Osipova",
+              "authorBio": "",
+              "text": "\"Привет Элина, спасибо за чудный пледик для моего малыша, очень давно видела в инстаграмме фото с пледами и всегда удивлялась - как красиво, теперь это есть и у меня и моего малыша, спасибо тебе\"",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/face3.jpg",
@@ -654,9 +654,9 @@
               }
             },
             {
-              "authorName": "Suffian A.",
-              "authorBio": "User",
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "authorName": "Anastasija Zlidena",
+              "authorBio": "",
+              "text": "\"Добрый день, сегодня получила лукошко для своего котика - мяу мяу от него и спасибо от меня\"",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/face1.jpg",
@@ -668,9 +668,9 @@
               }
             },
             {
-              "authorName": "Jhollman C.",
-              "authorBio": "User",
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "authorName": "Anna Grokhovska",
+              "authorBio": "",
+              "text": "Спасибо Вам! За чудесный коврик в ванну, много читала про шерсть мериноса, про его свойств но у нас на рынке не было популярно, рукомендую всем аксессуары из данной шерсти.",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/face2.jpg",
